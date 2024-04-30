@@ -1,5 +1,4 @@
 # Cookery-Recipe-Book
-#Java Parser Project
 This project demonstrates the use of the JavaParser library (https://javaparser.org/) to analyze Java source code. The project includes code to traverse a Java file, print out the Abstract Syntax Tree (AST) of each class, calculate the total number of tokens in the file, and determine the types of tokens along with their counts.
 
 Contents
